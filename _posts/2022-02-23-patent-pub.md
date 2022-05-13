@@ -11,3 +11,4 @@ permalink: /doc/2022_patent/
 ---
 
 ## ACL 2022
+- [Paper link](https://openreview.net/forum?id=oQ43ZecmCwe)

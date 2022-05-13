@@ -13,5 +13,5 @@ Gemfile.lock
 node_modules
 npm-debug.log*
 cache
-example
-
+example/*
+archived/*

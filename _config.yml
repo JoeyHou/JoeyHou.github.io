@@ -18,8 +18,8 @@ remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Joey Hou"
-description: joeyhou@seas.upenn.edu
-# site_description: Graduate Student at Penn
+email: joeyhou@seas.upenn.edu
+description: "Graduate Student at Penn"
 
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -117,27 +117,40 @@ author:
     # - title: Twitter
     #   url: https://twitter.com/JoeyHou5
     #   icon: fab fa-twitter-square
-    - title: Instagram
-      url: https://instagram.com/joeyhou10
-      icon: fab fa-instagram
-    - title: GitHub
-      url: https://github.com/JoeyHou
-      icon: fab fa-github-square
+    # - title: Instagram
+    #   url: https://instagram.com/joeyhou10
+    #   icon: fab fa-instagram
+    - title: Email
+      url: mailto:joeyhou@seas.upenn.edu
+      icon: fa fa-envelope-open-text
+    - title: LinkedIn
+      url: https://linkedin.com/in/joeyhou/
+      icon: fab fa-linkedin-in
+    - title: Twitter
+      url: https://twitter.com/JoeyHou5
+      icon: fab fa-twitter
 
 # Footer Links
 footer_links:
+  - title: Email
+    url: mailto:joeyhou@seas.upenn.edu
+    icon: fa fa-envelope-square
+    # <i class="fa-solid fa-envelope-dot"></i>
   - title: Twitter
     url: https://twitter.com/JoeyHou5
     icon: fab fa-twitter-square
-  - title: Instagram
-    url: https://instagram.com/joeyhou10
-    icon: fab fa-instagram
+  - title: LinkedIn
+    url: https://linkedin.com/in/joeyhou/
+    icon: fab fa-linkedin
   - title: GitHub
     url: https://github.com/JoeyHou
     icon: fab fa-github-square
-  - title: Email
-    url: mailto:joeyhou@seas.upenn.edu
-    icon: fab fa-envelope-dot
+  - title: Instagram
+    url: https://instagram.com/joeyhou10
+    icon: fab fa-instagram-square
+  
+  
+    # <i class="fa-solid fa-envelope-open-text"></i>
   # - title: Feed
   #   url: atom.xml
   #   icon: fas fa-rss-square

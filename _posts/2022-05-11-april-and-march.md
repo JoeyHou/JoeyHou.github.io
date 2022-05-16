@@ -1,5 +1,5 @@
 ---
-title: "April in Shanghai"
+title: "April 2022"
 layout: post
 categories:
   - Life
@@ -12,5 +12,4 @@ permalink: /doc/2022_april/
 
 ---
 
-## April in Shanghai
-We should never forget.
+We should never forget what happened in Shanghai.

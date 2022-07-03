@@ -148,9 +148,6 @@ footer_links:
   - title: Instagram
     url: https://instagram.com/joeyhou10
     icon: fab fa-instagram-square
-  
-  
-    # <i class="fa-solid fa-envelope-open-text"></i>
-  # - title: Feed
-  #   url: atom.xml
-  #   icon: fas fa-rss-square
+  # - title: Douban
+  #   url: https://www.douban.com/people/joeyhou10/
+  #   icon: fas fa-square-fragile

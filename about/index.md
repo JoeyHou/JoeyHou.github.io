@@ -7,4 +7,21 @@ permalink: /about/
 # entries_layout: list
 ---
 
-I am a first-year graduate student at UPenn (MSE in Data Science). Currently my main focus includes research in natural language understanding (NLU), cat feeding, healthy life routine, Chinese cuisine, and travel. You are more than welcome to connect with me via social media or email.
+### Summary
+I am a first-year master’s student at UPenn. In the past, I have worked in research projects related to data-mining, creative language generation and procedure reasoning. My main research focus right now is natural language understanding and reasoning. I am planning to apply for Ph.D. in the domain of NLP this fall. Feel free to contact me at joeyhou@seas.upenn.edu or on social media. 
+
+Aside from NLP, I am also a fan of [cat feeding](https://www.instagram.com/coco.quinn555/), cooking Chinese cuisine, and travel.
+
+### Education
+- University of Pennsylvania
+    - Degree: Master of Science in Engineering
+    - Major: [Data Science](https://dats.seas.upenn.edu/)
+    - Expected Graduation: 05/2023
+
+- University of California, San Diego
+    - Degree: Bachelor of Science
+    - Major: [Data Science](https://datascience.ucsd.edu)
+    - Minor: [Communication](https://communication.ucsd.edu/)
+    - Graduation: 06/2021
+
+<!-- ### Experience -->

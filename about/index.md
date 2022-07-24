@@ -7,7 +7,6 @@ permalink: /about/
 # entries_layout: list
 ---
 
-### Summary
 I am a first-year master’s student at UPenn. In the past, I have worked in research projects related to data-mining, creative language generation and procedure reasoning. My main research focus right now is natural language understanding and reasoning. I am planning to apply for Ph.D. in the domain of NLP this fall. Feel free to contact me at joeyhou@seas.upenn.edu or on social media. 
 
 Aside from NLP, I am also a fan of [cat feeding](https://www.instagram.com/coco.quinn555/), cooking Chinese cuisine, and travel.

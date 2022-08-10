@@ -11,7 +11,6 @@ permalink: /doc/2022_mac_benchmark/
 
 ---
 
-## About
 This is a personal project to test several daily tasks in the field of data science on the new Apple M1/M1-Pro macs. The project is inspired by [
 this Medium article by
 Dario Radečić](https://towardsdatascience.com/are-the-new-m1-macbooks-any-good-for-data-science-lets-find-out-e61a01e8cad1).\
@@ -71,13 +70,10 @@ Dario Radečić](https://towardsdatascience.com/are-the-new-m1-macbooks-any-good
 | PyTorch - MLP 			| 96s 		| 69s| 66s|  **48s**|
 | Test Time	| Nov. 2021| Nov. 2021 | Nov. 2021 | Jul. 2022 | 
 
-
-
-
-
 - **Note**: As noted in the table above, some of the tests are not done at the same time, which means there might be system updates on the OS level that impact task performances.
 
 ## Get Started
+- **[Fork the repo here](https://github.com/JoeyHou/Mac-DataScience-Benchmarks)**
 - Virtual Environment - **Highly recommanded**
 	- Install [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html) or [Anaconda](https://docs.anaconda.com/anaconda/install/index.html)
 	- `conda create -n "py36" python=3.6 ipython`
@@ -95,7 +91,7 @@ Dario Radečić](https://towardsdatascience.com/are-the-new-m1-macbooks-any-good
 	- `conda install -c conda-forge tqdm`
 
 
-	## Other Related Articles
+## Other Related Articles
 	- https://towardsdatascience.com/new-apple-silicon-m1-macbook-air-the-dream-laptop-for-machine-learning-engineers-a1590fbd170f
 	- https://gist.github.com/markus-beuckelmann/8bc25531b11158431a5b09a45abd6276
 	- https://wandb.ai/vanpelt/m1-benchmark/reports/Can-Apple-s-M1-help-you-train-models-faster-cheaper-than-NVIDIA-s-V100---VmlldzozNTkyMzg

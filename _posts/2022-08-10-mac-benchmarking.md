@@ -92,6 +92,6 @@ Dario Radečić](https://towardsdatascience.com/are-the-new-m1-macbooks-any-good
 
 
 ## Other Related Articles
-	- https://towardsdatascience.com/new-apple-silicon-m1-macbook-air-the-dream-laptop-for-machine-learning-engineers-a1590fbd170f
-	- https://gist.github.com/markus-beuckelmann/8bc25531b11158431a5b09a45abd6276
-	- https://wandb.ai/vanpelt/m1-benchmark/reports/Can-Apple-s-M1-help-you-train-models-faster-cheaper-than-NVIDIA-s-V100---VmlldzozNTkyMzg
+- https://towardsdatascience.com/new-apple-silicon-m1-macbook-air-the-dream-laptop-for-machine-learning-engineers-a1590fbd170f
+- https://gist.github.com/markus-beuckelmann/8bc25531b11158431a5b09a45abd6276
+- https://wandb.ai/vanpelt/m1-benchmark/reports/Can-Apple-s-M1-help-you-train-models-faster-cheaper-than-NVIDIA-s-V100---VmlldzozNTkyMzg

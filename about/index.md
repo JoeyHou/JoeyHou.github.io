@@ -1,7 +1,7 @@
 ---
 layout: post
-excerpt: "About me"
-show_excerpts: true
+excerpt: 
+show_excerpts: false
 permalink: /about/
 # paginate: true
 # entries_layout: list

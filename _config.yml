@@ -19,7 +19,7 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Joey Hou"
 email: joeyhou@seas.upenn.edu
-description: "Graduate Student at Penn"
+description: "joeyhou[at]seas.upenn.edu"
 
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 url: "https://joeyhou.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

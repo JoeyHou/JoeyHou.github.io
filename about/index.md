@@ -39,7 +39,7 @@ permalink: /about/
     - Built a text processing pipeline to extract food content from a health monitor app (**85%** parsing accuracy);
     - Built a data ETL and analysis pipeline for user behavior analysis (more than **500,000** records).
 
-## Publications
+## Selected Publications
 ### 2022
 - Caitlin A. Stamatis, Jonah Meyerhoff, Tingting Liu, **Zhaoyi Hou**, Garrick Sherman, Brenda L. Curtis, Lyle H. Ungar, David C. Mohr. *The association of language style matching in text messages with symptoms of affective psychopathologies*. [Under Review]
 - Xiaochen Kev Gao, **Zhaoyi Hou**, Yifei Ning, Jingbo Shang, Vish Krishnan. *Towards Comprehensive Patent Approval Predictions: Beyond Traditional Document Classification*. [ACL 2022]

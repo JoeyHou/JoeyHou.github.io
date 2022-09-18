@@ -7,6 +7,7 @@ permalink: /about/
 # entries_layout: list
 ---
 # About me
+[My CV](/doc/cv.pdf)
 ## Research Interest
 - Natural Language Processing, Machine Learning, Cognitive Science
 - Commonsense Reasoning, Natural Language Inference, Narrative Understanding

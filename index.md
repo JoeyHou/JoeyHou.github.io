@@ -6,7 +6,7 @@ search_omit: true
 ---
 I am a second-year master’s student in Data Science at [University of Pennsylvania](https://dats.seas.upenn.edu). I got my Bachelor of Science degree (B.S.) in Data Science at [UC San Diego](https://datascience.ucsd.edu/). In the past, I have worked in research projects in data-mining, natural language generation, and computational psychology. 
 
-My main research focus right now is **natural language understanding** and **commonsense reasoning**. More about my research expriences and projects can be found in **[about me](/about/)** page or in **[my cv](/doc/cv.pdf)**
+My main research focus right now is **natural language understanding** and **commonsense reasoning**. More about my research expriences and projects can be found in **[my cv](/doc/cv.pdf)**
 
 Aside from NLP, I am also a fan of [cat](https://www.instagram.com/coco.quinn555/), cooking Chinese cuisine, soccer, and travel.
 

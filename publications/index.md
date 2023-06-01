@@ -10,6 +10,7 @@ permalink: /publications/
 
 ### 2023
 [6] [In Submission] **Zhaoyi Hou**, Li Zhang, and Chris Callison-Burch. *Decision Branching in Script Learning*
+
 [5] [ACL 2023] Tianyi Zhang\*, Isaac Tham\*, **Zhaoyi Hou\***, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, and Chris Callison-Burch. *Human-in-the-Loop Schema Induction*. [arxiv] [**paper**](https://arxiv.org/abs/2302.13048)
 
 ### 2022

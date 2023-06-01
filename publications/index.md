@@ -9,9 +9,9 @@ permalink: /publications/
 # Publications
 
 ### 2023
-[6] [In Submission] **Zhaoyi Hou**, Li Zhang, and Chris Callison-Burch. *Decision Branching in Script Learning*
+[6] **Zhaoyi Hou**, Li Zhang, and Chris Callison-Burch. *Decision Branching in Script Learning* [In Submission]
 
-[5] [ACL 2023] Tianyi Zhang\*, Isaac Tham\*, **Zhaoyi Hou\***, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, and Chris Callison-Burch. *Human-in-the-Loop Schema Induction*. [arxiv] [**paper**](https://arxiv.org/abs/2302.13048)
+[5] Tianyi Zhang\*, Isaac Tham\*, **Zhaoyi Hou\***, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, and Chris Callison-Burch. *Human-in-the-Loop Schema Induction*. [ACL 2023] [**paper**](https://arxiv.org/abs/2302.13048)
 
 ### 2022
 [4] Xiaochen Kev Gao, **Zhaoyi Hou**, Yifei Ning, Jingbo Shang, Vish Krishnan. *Towards Comprehensive Patent Approval Predictions: Beyond Traditional Document Classification*. [ACL 2022] [**paper**](https://aclanthology.org/2022.acl-long.28/), [**code**](https://github.com/acl-2022-towards-comprehensive/acl-2022-camera-ready)

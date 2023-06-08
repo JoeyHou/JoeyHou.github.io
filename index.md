@@ -13,6 +13,6 @@ Aside from NLP, I am also a fan of [cat](https://www.instagram.com/coco.quinn555
 -----
 
 ## Recent Updates (05/2023)
-- I'm currently doing internship at [II America](https://www.linkedin.com/company/uii-america-inc) in Boston, working on tuning large language models for trust-worthy QA in the medical domain.
+- I'm currently doing internship at [UII America](https://www.linkedin.com/company/uii-america-inc) in Boston, working on tuning large language models for trust-worthy QA in the medical domain.
 
 <!-- ## Older Posts -->

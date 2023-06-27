@@ -9,7 +9,9 @@ permalink: /publications/
 # Publications
 
 ### 2023
-[6] **Zhaoyi Hou**, Li Zhang, and Chris Callison-Burch. *Decision Branching in Script Learning* [In Submission]
+[7] **Zhaoyi Hou**, Li Zhang, and Chris Callison-Burch. *Decision Branching in Script Learning* [In Submission]
+
+[6] Alyssa Hwang\*, Bryan Li\*, Zhaoyi Hou\*, Dan Roth. *Large Language Models as Sous Chefs: Revising Recipes with GPT-3*. [arxiv][**paper**](https://arxiv.org/abs/2306.13986)
 
 [5] Tianyi Zhang\*, Isaac Tham\*, **Zhaoyi Hou\***, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, and Chris Callison-Burch. *Human-in-the-Loop Schema Induction*. [ACL 2023] [**paper**](https://arxiv.org/abs/2302.13048)
 

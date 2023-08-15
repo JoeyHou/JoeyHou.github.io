@@ -18,8 +18,8 @@ remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Zhaoyi Hou / Joey"
-email: joeyhou@seas.upenn.edu
-description: "joeyhou[at]seas.upenn.edu"
+email: joey.hou@pitt.edu
+description: "joey.hou [at] pitt.edu"
 
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 url: "https://joeyhou.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -126,7 +126,7 @@ author:
     #   url: https://instagram.com/joeyhou10
     #   icon: fab fa-instagram
     - title: Email
-      url: mailto:joeyhou@seas.upenn.edu
+      url: mailto:joey.hou@pitt.edu
       icon: fa fa-envelope-open-text
     - title: LinkedIn
       url: https://linkedin.com/in/joeyhou/
@@ -138,7 +138,7 @@ author:
 # Footer Links
 footer_links:
   - title: Email
-    url: mailto:joeyhou@seas.upenn.edu
+    url: mailto:joey.hou@pitt.edu
     icon: fa fa-envelope-square
     # <i class="fa-solid fa-envelope-dot"></i>
   - title: Twitter

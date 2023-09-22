@@ -9,7 +9,7 @@ permalink: /publications/
 # Publications
 
 ### 2023
-[7] **Zhaoyi Hou**, Li Zhang, and Chris Callison-Burch. *Decision Branching in Script Learning* [In Submission]
+[7] **Zhaoyi Hou**, Li Zhang, and Chris Callison-Burch. *Choice-75: A Dataset on Decision Branching in Script Learning* [arxiv] [**paper**](https://arxiv.org/abs/2309.11737)
 
 [6] Alyssa Hwang\*, Bryan Li\*, **Zhaoyi Hou\***, Dan Roth. *Large Language Models as Sous Chefs: Revising Recipes with GPT-3*. [arxiv] [**paper**](https://arxiv.org/abs/2306.13986)
 

@@ -7,6 +7,7 @@ permalink: /publications/
 # entries_layout: list
 ---
 # Publications
+For a more up-to-date list, see [Google Scholar](https://scholar.google.com/citations?user=p47a8vAAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/Zhaoyi-Hou/2165225503).
 
 ### 2023
 [7] **Zhaoyi Hou**, Li Zhang, and Chris Callison-Burch. *Choice-75: A Dataset on Decision Branching in Script Learning* [arxiv] [**paper**](https://arxiv.org/abs/2309.11737)

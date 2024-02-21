@@ -13,7 +13,7 @@ Aside from NLP, I am also a [cat lover](https://www.instagram.com/coco.quinn555/
 -----
 
 ## Recent Updates
-- *09/2023*: Our most recent work, *Choice-75: A Dataset on Decision Branching in Script Learning*, is posted on [arxiv](https://arxiv.org/abs/2309.11737v1). Thanks for my mentor Li (Harry) Zhang and Professor Chris Callison-Burch!
+- *02/2024*: Our most recent work, *Choice-75: A Dataset on Decision Branching in Script Learning*, is accepted to appear on [LREC-COLING](https://lrec-coling-2024.org/). Thanks for my mentor Li (Harry) Zhang and Professor Chris Callison-Burch!
 - *08/2023*: Started my Ph.D. at Pitt! If you are in Pittsburgh area, let's connect!
 - *05/2023*: I will be on internship at [UII America](https://www.linkedin.com/company/uii-america-inc) in Boston during summer 2023, working on training large language models for trust-worthy QA in the medical domain.
 

@@ -10,7 +10,9 @@ permalink: /publications/
 For a more up-to-date list, see [Google Scholar](https://scholar.google.com/citations?user=w-lj5G8AAAAJ) or [Semantic Scholar](https://www.semanticscholar.org/author/Zhaoyi-Hou/2165225503).
 
 ### 2023
-[7] **Zhaoyi Hou**, Li Zhang, and Chris Callison-Burch. *Choice-75: A Dataset on Decision Branching in Script Learning* [arxiv] [**paper**](https://arxiv.org/abs/2309.11737)
+[8] **Zhaoyi Hou**, Li Zhang, and Chris Callison-Burch. *Choice-75: A Dataset on Decision Branching in Script Learning* [COLING-LREC 2024] [**paper**](https://arxiv.org/abs/2309.11737)
+
+[7] Tianyi Zhang, Li Zhang, **Zhaoyi Hou**, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon. *PROC2PDDL: Open-Domain Planning Representations from Texts* [arxiv] [**paper**](https://arxiv.org/abs/2403.00092)
 
 [6] Alyssa Hwang\*, Bryan Li\*, **Zhaoyi Hou\***, Dan Roth. *Large Language Models as Sous Chefs: Revising Recipes with GPT-3*. [arxiv] [**paper**](https://arxiv.org/abs/2306.13986)
 

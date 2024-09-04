@@ -8,7 +8,7 @@ I am a first-year Ph.D. student in Computer Science at [University of Pittsburgh
 
 My current research focus is **natural language understanding**, in particular, **commonsense reasoning**, **event-centric reasoning**, and **grounded language understanding**. More about my research expriences and projects can be found in **[my cv](/doc/cv.pdf)**
 
-Aside from NLP, I am also a [cat person](https://www.instagram.com/coco.quinn555/).
+Aside from NLP, I am also a [cat person](https://www.instagram.com/coconut.joey/).
 
 -----
 

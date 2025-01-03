@@ -23,7 +23,7 @@ description: "joey.hou [at] pitt.edu"
 
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 url: "https://joeyhou.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: "/images/joey.jpg" # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/images/joey.jpeg" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 
 read_time: false
@@ -115,7 +115,7 @@ defaults:
 # Site Author
 author:
   name: Joey Hou
-  picture: /images/joey.jpg
+  picture: /images/joey.jpeg
   email:
   twitter: JoeyHou5
   links:

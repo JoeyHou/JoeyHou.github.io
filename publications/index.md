@@ -10,7 +10,9 @@ permalink: /publications/
 For a more up-to-date list, see [Google Scholar](https://scholar.google.com/citations?user=w-lj5G8AAAAJ) or [Semantic Scholar](https://www.semanticscholar.org/author/Zhaoyi-Hou/2165225503).
 
 ### 2025
-[9] **Zhaoyi Hou**, Alejandro Ciuba, Xiang Lorraine Li. *Improve LLM-based Automatic Essay Scoring with Linguistic Features* [Innovation and Responsibility in AI-Supported Education - AAAI 2025 **(Spotlight Paper)**]
+[10] **Zhaoyi Hou**, Adriana Kovashka, Xiang Lorraine Li. *Leveraging Large Models for Evaluating Novel Content: A Case Study on Advertisement Creativity* [Under Review] [**arxiv**]()
+
+[9] **Zhaoyi Hou**, Alejandro Ciuba, Xiang Lorraine Li. *Improve LLM-based Automatic Essay Scoring with Linguistic Features* [Innovation and Responsibility in AI-Supported Education - AAAI 2025 **(Spotlight Paper)**] [**paper**](https://openreview.net/forum?id=HoWEJV9CIO)
 
 ### 2024
 [8] **Zhaoyi Hou**, Li Zhang, and Chris Callison-Burch. *Choice-75: A Dataset on Decision Branching in Script Learning* [COLING-LREC 2024] [**paper**](https://aclanthology.org/2024.lrec-main.285)

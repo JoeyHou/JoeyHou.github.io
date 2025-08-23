@@ -13,6 +13,7 @@ Aside from NLP, I am also a [cat person](https://www.instagram.com/coconut.joey/
 -----
 
 ## Recent Updates
+- *08/2025*: Our recent work, *Leveraging Large Models for Evaluating Novel Content: A Case Study on Advertisement Creativity*, is accepted as a main conference paper at EMNLP 2025! 
 - *12/2024*: Our recent work, *Improve LLM-based Automatic Essay Scoring with Linguistic Features*, is accepted as a spotlight paper at Innovation and Responsibility in AI-Supported Education (iRaise) workshop at AAAI 2025!
 - *02/2024*: *Choice-75: A Dataset on Decision Branching in Script Learning*, is accepted to appear on [LREC-COLING](https://lrec-coling-2024.org/)!
 - *08/2023*: Started my Ph.D. at Pitt! If you are in Pittsburgh area, let's connect!

@@ -10,7 +10,9 @@ permalink: /publications/
 For a more up-to-date list, see [Google Scholar](https://scholar.google.com/citations?user=w-lj5G8AAAAJ) or [Semantic Scholar](https://www.semanticscholar.org/author/Zhaoyi-Hou/2165225503).
 
 ### 2025
-[10] **Zhaoyi Hou**, Adriana Kovashka, Xiang Lorraine Li. *Leveraging Large Models for Evaluating Novel Content: A Case Study on Advertisement Creativity* [Under Review] [**arxiv**](https://arxiv.org/abs/2503.00046)
+[11] **Zhaoyi Joey Hou**, Bowei Alvin Zhang, Yining Lu, Bhiman Kumar Baghel, Anneliese Brei, Ximing Lu, Meng Jiang, Faeze Brahman, Snigdha Chaturvedi, Haw-Shiuan Chang, Daniel Khashabi, Xiang Lorraine Li. CreativityPrism: A Holistic Benchmark for Machine Creativity [In Submission]
+
+[10] **Zhaoyi Hou**, Adriana Kovashka, Xiang Lorraine Li. *Leveraging Large Models for Evaluating Novel Content: A Case Study on Advertisement Creativity* [To Appear in EMNLP 2025] [**arxiv**](https://arxiv.org/abs/2503.00046)
 
 [9] **Zhaoyi Hou**, Alejandro Ciuba, Xiang Lorraine Li. *Improve LLM-based Automatic Essay Scoring with Linguistic Features* [Innovation and Responsibility in AI-Supported Education - AAAI 2025 **(Spotlight Paper)**] [**paper**](https://openreview.net/forum?id=HoWEJV9CIO)
 

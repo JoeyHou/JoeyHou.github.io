@@ -19,7 +19,7 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Zhaoyi Hou / Joey"
 email: joey.hou@pitt.edu
-description: "joey.hou [at] pitt.edu"
+description: "joey.hou@pitt.edu"
 
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 url: "https://joeyhou.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

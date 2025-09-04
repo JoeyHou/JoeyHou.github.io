@@ -14,12 +14,12 @@ For a more up-to-date list, see [Google Scholar](https://scholar.google.com/cita
 
 [10] **Zhaoyi Hou**, Adriana Kovashka, Xiang Lorraine Li. *Leveraging Large Models for Evaluating Novel Content: A Case Study on Advertisement Creativity* [To Appear in EMNLP 2025] [**arxiv**](https://arxiv.org/abs/2503.00046)
 
-[9] **Zhaoyi Hou**, Alejandro Ciuba, Xiang Lorraine Li. *Improve LLM-based Automatic Essay Scoring with Linguistic Features* [Innovation and Responsibility in AI-Supported Education - AAAI 2025 **(Spotlight Paper)**] [**paper**](https://openreview.net/forum?id=HoWEJV9CIO)
+[9] **Zhaoyi Hou**, Alejandro Ciuba, Xiang Lorraine Li. *Improve LLM-based Automatic Essay Scoring with Linguistic Features* [Innovation and Responsibility in AI-Supported Education (@AAAI 2025) **(Spotlight Paper)**] [**paper**](https://openreview.net/forum?id=HoWEJV9CIO)
 
 ### 2024
 [8] **Zhaoyi Hou**, Li Zhang, and Chris Callison-Burch. *Choice-75: A Dataset on Decision Branching in Script Learning* [COLING-LREC 2024] [**paper**](https://aclanthology.org/2024.lrec-main.285)
 
-[7] Tianyi Zhang, Li Zhang, **Zhaoyi Hou**, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon. *PROC2PDDL: Open-Domain Planning Representations from Texts* [arxiv] [**paper**](https://arxiv.org/abs/2403.00092)
+[7] Tianyi Zhang, Li Zhang, **Zhaoyi Hou**, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon. *PROC2PDDL: Open-Domain Planning Representations from Texts* [Proceedings of the 2nd Workshop on Natural Language Reasoning and Structured Explanations (@ACL 2024)] [**paper**](https://aclanthology.org/2024.nlrse-1.2/)
 
 ### 2023
 [6] Alyssa Hwang\*, Bryan Li\*, **Zhaoyi Hou\***, Dan Roth. *Large Language Models as Sous Chefs: Revising Recipes with GPT-3*. [arxiv] [**paper**](https://arxiv.org/abs/2306.13986)

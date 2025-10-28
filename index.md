@@ -4,15 +4,15 @@ title:
 excerpt: "Joey's homepage"
 search_omit: true
 ---
-I am a 3rd-year Ph.D. student in Computer Science at [University of Pittsburgh](https://www.cs.pitt.edu/) adviced by Professor [Xiang (Lorraine) Li](https://www.cs.pitt.edu/people/full-time-faculty/lorraine-xiang-li). I got my Master of Science in Engineering (M.S.E) degree in Data Science at [University of Pennsylvania](https://dats.seas.upenn.edu), where I worked with Professors [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/) and [Lyle Ungar](https://www.cis.upenn.edu/~ungar/); I got my Bachelor of Science degree (B.S.) in Data Science at [UC San Diego](https://datascience.ucsd.edu/), where I worked with Professor [Jingbo Shang](https://shangjingbo1226.github.io/), who was also my first mentor in the field of NLP.
+I am a 3rd-year Ph.D. student in Computer Science at [University of Pittsburgh](https://www.cs.pitt.edu/) adviced by Professor [Xiang (Lorraine) Li](https://www.cs.pitt.edu/people/full-time-faculty/lorraine-xiang-li). I got my Master of Science in Engineering (M.S.E) degree in Data Science at [University of Pennsylvania](https://dats.seas.upenn.edu), where I worked with Professors [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/) and [Lyle Ungar](https://www.cis.upenn.edu/~ungar/); I got my Bachelor of Science degree (B.S.) in Data Science at [UC San Diego](https://datascience.ucsd.edu/), where I worked with Professor [Jingbo Shang](https://shangjingbo1226.github.io/), who was also my first mentor in the field of NLP. My current research focus is evaluation of large language models (LLMs) in creativity related tasks, such as creative content generation and problem solving. More about my research expriences and projects can be found in **[my cv](/doc/cv.pdf)**
 
-My current research focus is **natural language understanding**, in particular, **commonsense reasoning**, **event-centric reasoning**, and **grounded language understanding**. More about my research expriences and projects can be found in **[my cv](/doc/cv.pdf)**
-
+<!-- **natural language understanding**, in particular, **commonsense reasoning**, **event-centric reasoning**, and **grounded language understanding**.  -->
 Aside from NLP, I am also a [cat person](https://www.instagram.com/coconut.joey/).
 
 -----
 
 ## Recent Updates
+- *10/2025*: Please check out our latest work, [CreativityPrism: A Holistic Benchmark for Large Language Model Creativity](https://arxiv.org/abs/2510.20091v1)!
 - *08/2025*: Our recent work, *Leveraging Large Models for Evaluating Novel Content: A Case Study on Advertisement Creativity*, is accepted as a main conference paper at EMNLP 2025! 
 - *12/2024*: Our recent work, *Improve LLM-based Automatic Essay Scoring with Linguistic Features*, is accepted as a spotlight paper at Innovation and Responsibility in AI-Supported Education (iRaise) workshop at AAAI 2025!
 - *02/2024*: *Choice-75: A Dataset on Decision Branching in Script Learning*, is accepted to appear on [LREC-COLING](https://lrec-coling-2024.org/)!

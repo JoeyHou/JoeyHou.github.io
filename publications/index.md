@@ -14,9 +14,9 @@ For a more up-to-date list, see [Google Scholar](https://scholar.google.com/cita
 
 [11] **Zhaoyi Joey Hou**\*, Tanya Shourya\*, Yingfan Wang, Shamik Roy, Vinayshekhar Bannihatti Kumar, Rashmi Gangadharaiah. Multi-Faceted Evaluation of Tool-Augmented Dialogue Systems [**arxiv**](https://arxiv.org/abs/2510.19186)
 
-[10] **Zhaoyi Hou**, Adriana Kovashka, Xiang Lorraine Li. *Leveraging Large Models for Evaluating Novel Content: A Case Study on Advertisement Creativity* [EMNLP 2025] [**paper**](https://aclanthology.org/2025.emnlp-main.1072/)
+[10] **Zhaoyi Joey Hou**, Adriana Kovashka, Xiang Lorraine Li. *Leveraging Large Models for Evaluating Novel Content: A Case Study on Advertisement Creativity* [EMNLP 2025] [**paper**](https://aclanthology.org/2025.emnlp-main.1072/)
 
-[9] **Zhaoyi Hou**, Alejandro Ciuba, Xiang Lorraine Li. *Improve LLM-based Automatic Essay Scoring with Linguistic Features* [Innovation and Responsibility in AI-Supported Education (@AAAI 2025) **(Spotlight Paper)**] [**paper**](https://openreview.net/forum?id=HoWEJV9CIO)
+[9] **Zhaoyi Joey Hou**, Alejandro Ciuba, Xiang Lorraine Li. *Improve LLM-based Automatic Essay Scoring with Linguistic Features* [Innovation and Responsibility in AI-Supported Education (@AAAI 2025) **(Spotlight Paper)**] [**paper**](https://proceedings.mlr.press/v273/hou25a.html)
 
 ### 2024
 [8] **Zhaoyi Hou**, Li Zhang, and Chris Callison-Burch. *Choice-75: A Dataset on Decision Branching in Script Learning* [COLING-LREC 2024] [**paper**](https://aclanthology.org/2024.lrec-main.285)

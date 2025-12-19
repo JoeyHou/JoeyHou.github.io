@@ -153,6 +153,9 @@ footer_links:
   - title: Instagram
     url: https://instagram.com/joeyhou10
     icon: fab fa-instagram-square
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=Z5oX4HAAAAAJ&hl=en
+    icon: fas fa-graduation-cap
   # - title: Douban
   #   url: https://www.douban.com/people/joeyhou10/
   #   icon: fas fa-square-fragile

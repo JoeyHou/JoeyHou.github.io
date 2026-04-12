@@ -13,7 +13,9 @@ Aside from NLP, I am also a [cat person](https://www.instagram.com/coconut.joey/
 -----
 
 ## Recent Updates
-- *10/2025*: Please check out our latest work, [CreativityPrism: A Holistic Benchmark for Large Language Model Creativity](https://arxiv.org/abs/2510.20091v1)!
+- *04/2026*: I will join Microsoft (Redmond, WA) as an applied scientist intern in summer 2026! See you in Seattle.
+- *03/2026*: Passed comprehensive exam! Huge thanks to my committee members: Dr. Diane Litman, Dr. Adriana Kovashka, Dr. Xiang Lorraine Li!
+- *10/2025*: We released our latest work, [CreativityPrism: A Holistic Benchmark for Large Language Model Creativity](https://arxiv.org/abs/2510.20091)! Thanks to our wonderful colleborators! 
 - *08/2025*: Our recent work, *Leveraging Large Models for Evaluating Novel Content: A Case Study on Advertisement Creativity*, is accepted as a main conference paper at EMNLP 2025! 
 - *12/2024*: Our recent work, *Improve LLM-based Automatic Essay Scoring with Linguistic Features*, is accepted as a spotlight paper at Innovation and Responsibility in AI-Supported Education (iRaise) workshop at AAAI 2025!
 - *02/2024*: *Choice-75: A Dataset on Decision Branching in Script Learning*, is accepted to appear on [LREC-COLING](https://lrec-coling-2024.org/)!

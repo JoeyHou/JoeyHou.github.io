@@ -10,11 +10,11 @@ permalink: /publications/
 For a more up-to-date list, see [Google Scholar](https://scholar.google.com/citations?user=w-lj5G8AAAAJ) or [Semantic Scholar](https://www.semanticscholar.org/author/Zhaoyi-Hou/2165225503).
 
 ### 2025
-[13] **Zhaoyi Joey Hou**, Zhuowei Chen, Mengxue Zhang, Xiang Lorraine Li. Rethinking Post-training Diversity Collapse: Is Diversity-preserving Post-training Enough? [Under Submission]
+[13] **Zhaoyi Joey Hou**, Zhuowei Chen, Mengxue Zhang, Xiang Lorraine Li. Rethinking Post-training Diversity Collapse: Is Diversity-preserving Post-training Enough? [Human-AI Co-Creativity @ICML2026]
 
 [12] **Zhaoyi Joey Hou**, Bowei Alvin Zhang, Yining Lu, Bhiman Kumar Baghel, Anneliese Brei, Ximing Lu, Meng Jiang, Faeze Brahman, Snigdha Chaturvedi, Haw-Shiuan Chang, Daniel Khashabi, Xiang Lorraine Li. CreativityPrism: A Holistic Benchmark for Machine Creativity [**arxiv**](https://arxiv.org/abs/2510.20091)
 
-[11] Tanya Shourya, Yingfan Wang, **Zhaoyi Joey Hou**, Shamik Roy, Vinayshekhar Bannihatti Kumar, Rashmi Gangadharaiah. Multi-Faceted Evaluation of Tool-Augmented Dialogue Systems [**arxiv**](https://arxiv.org/abs/2510.19186)
+[11] Tanya Shourya, Yingfan Wang, **Zhaoyi Joey Hou**, Shamik Roy, Vinayshekhar Bannihatti Kumar, Rashmi Gangadharaiah. Multi-Faceted Evaluation of Tool-Augmented Dialogue Systems [Proceedings of the 5th Natural Language Generation, Evaluation, and Metrics (GEM) @ACL2026] [**paper**](https://openreview.net/forum?id=WvZCLXKz59)
 
 [10] **Zhaoyi Joey Hou**, Adriana Kovashka, Xiang Lorraine Li. *Leveraging Large Models for Evaluating Novel Content: A Case Study on Advertisement Creativity* [EMNLP 2025] [**paper**](https://aclanthology.org/2025.emnlp-main.1072/)
 
@@ -23,7 +23,7 @@ For a more up-to-date list, see [Google Scholar](https://scholar.google.com/cita
 ### 2024
 [8] **Zhaoyi Hou**, Li Zhang, and Chris Callison-Burch. *Choice-75: A Dataset on Decision Branching in Script Learning* [COLING-LREC 2024] [**paper**](https://aclanthology.org/2024.lrec-main.285)
 
-[7] Tianyi Zhang, Li Zhang, **Zhaoyi Hou**, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon. *PROC2PDDL: Open-Domain Planning Representations from Texts* [Proceedings of the 2nd Workshop on Natural Language Reasoning and Structured Explanations (@ACL 2024)] [**paper**](https://aclanthology.org/2024.nlrse-1.2/)
+[7] Tianyi Zhang, Li Zhang, **Zhaoyi Hou**, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon. *PROC2PDDL: Open-Domain Planning Representations from Texts* [Proceedings of the 2nd Workshop on Natural Language Reasoning and Structured Explanations @ACL 2024] [**paper**](https://aclanthology.org/2024.nlrse-1.2/)
 
 ### 2023
 [6] Alyssa Hwang\*, Bryan Li\*, **Zhaoyi Hou\***, Dan Roth. *Large Language Models as Sous Chefs: Revising Recipes with GPT-3*. [arxiv] [**paper**](https://arxiv.org/abs/2306.13986)

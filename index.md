@@ -13,6 +13,7 @@ Aside from NLP, I am also a [cat person](https://www.instagram.com/coconut.joey/
 -----
 
 ## Recent Updates
+- *05/2026*: Our latest work, [CreativityPrism: A Holistic Benchmark for Large Language Model Creativity](https://arxiv.org/abs/2510.20091), has been accepted by [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/index.html). Thanks to our wonderful colleborators! Check out our [project page](https://joeyhou.github.io/CreativityPrism/) for more details!
 - *05/2026*: Our recent work, *Rethinking Post-training Diversity Collapse: Is Diversity-preserving Post-training Enough?*, is accepted to ICML 2026 Workshop on Human-AI Co-Creativity! Thanks to my greate collaborators! 
 - *04/2026*: I will join Microsoft (Redmond, WA) as an applied scientist intern in summer 2026!
 - *04/2026*: Our recent work, *Multi-Faceted Evaluation of Tool-Augmented Dialogue Systems*, is accepted to Natural Language Generation, Evaluation, and Metrics (GEM) workshop at ACL2026! Thanks to my mentors Tanya, Yingfan, Sharmik at AWS AI!

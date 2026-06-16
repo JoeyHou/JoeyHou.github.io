@@ -9,13 +9,14 @@ permalink: /publications/
 <!-- # Publications -->
 For a more up-to-date list, see [Google Scholar](https://scholar.google.com/citations?user=w-lj5G8AAAAJ) or [Semantic Scholar](https://www.semanticscholar.org/author/Zhaoyi-Hou/2165225503).
 
-### 2025
-[13] **Zhaoyi Joey Hou**, Zhuowei Chen, Mengxue Zhang, Xiang Lorraine Li. Rethinking Post-training Diversity Collapse: Is Diversity-preserving Post-training Enough? [Human-AI Co-Creativity @ICML2026][**paper**](https://openreview.net/pdf?id=w2NVC2suXq)
+### 2026
+[13] **Zhaoyi Joey Hou**, Zhuowei Chen, Mengxue Zhang, Xiang Lorraine Li. Rethinking Post-training Diversity Collapse: Is Diversity-preserving Post-training Enough? [Human-AI Co-Creativity @ICML2026] [**paper**](https://openreview.net/pdf?id=w2NVC2suXq)
 
-[12] **Zhaoyi Joey Hou**, Bowei Alvin Zhang, Yining Lu, Bhiman Kumar Baghel, Anneliese Brei, Ximing Lu, Meng Jiang, Faeze Brahman, Snigdha Chaturvedi, Haw-Shiuan Chang, Daniel Khashabi, Xiang Lorraine Li. CreativityPrism: A Holistic Benchmark for Machine Creativity [**arxiv**](https://arxiv.org/abs/2510.20091)
+[12] **Zhaoyi Joey Hou**, Bowei Alvin Zhang, Yining Lu, Bhiman Kumar Baghel, Anneliese Brei, Ximing Lu, Meng Jiang, Faeze Brahman, Snigdha Chaturvedi, Haw-Shiuan Chang, Daniel Khashabi, Xiang Lorraine Li. CreativityPrism: A Holistic Benchmark for Machine Creativity [TMLR] [**arxiv**](https://arxiv.org/abs/2510.20091), [**project page**](https://joeyhou.github.io/CreativityPrism/)
 
 [11] Tanya Shourya, Yingfan Wang, **Zhaoyi Joey Hou**, Shamik Roy, Vinayshekhar Bannihatti Kumar, Rashmi Gangadharaiah. Multi-Faceted Evaluation of Tool-Augmented Dialogue Systems [Proceedings of the 5th Natural Language Generation, Evaluation, and Metrics (GEM) @ACL2026] [**paper**](https://openreview.net/forum?id=WvZCLXKz59)
 
+### 2025
 [10] **Zhaoyi Joey Hou**, Adriana Kovashka, Xiang Lorraine Li. *Leveraging Large Models for Evaluating Novel Content: A Case Study on Advertisement Creativity* [EMNLP 2025] [**paper**](https://aclanthology.org/2025.emnlp-main.1072/)
 
 [9] **Zhaoyi Joey Hou**, Alejandro Ciuba, Xiang Lorraine Li. *Improve LLM-based Automatic Essay Scoring with Linguistic Features* [Innovation and Responsibility in AI-Supported Education (@AAAI 2025) **(Spotlight Paper)**] [**paper**](https://proceedings.mlr.press/v273/hou25a.html)
@@ -26,7 +27,7 @@ For a more up-to-date list, see [Google Scholar](https://scholar.google.com/cita
 [7] Tianyi Zhang, Li Zhang, **Zhaoyi Hou**, Ziyu Wang, Yuling Gu, Peter Clark, Chris Callison-Burch, Niket Tandon. *PROC2PDDL: Open-Domain Planning Representations from Texts* [Proceedings of the 2nd Workshop on Natural Language Reasoning and Structured Explanations @ACL 2024] [**paper**](https://aclanthology.org/2024.nlrse-1.2/)
 
 ### 2023
-[6] Alyssa Hwang\*, Bryan Li\*, **Zhaoyi Hou\***, Dan Roth. *Large Language Models as Sous Chefs: Revising Recipes with GPT-3*. [arxiv] [**paper**](https://arxiv.org/abs/2306.13986)
+[6] Alyssa Hwang\*, Bryan Li\*, **Zhaoyi Hou\***, Dan Roth. *Large Language Models as Sous Chefs: Revising Recipes with GPT-3*. [**paper**](https://arxiv.org/abs/2306.13986)
 
 [5] Tianyi Zhang\*, Isaac Tham\*, **Zhaoyi Hou\***, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, and Chris Callison-Burch. *Human-in-the-Loop Schema Induction*. [ACL 2023] [**paper**](https://aclanthology.org/2023.acl-demo.1/)
 
